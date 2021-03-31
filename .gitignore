@@ -1,0 +1,11 @@
+Build
+Library
+Logs
+obj
+UserSettings
+
+.vs
+.vsconfig
+
+Assembly-CSharp.csproj
+FPS Multi Simple.sln
